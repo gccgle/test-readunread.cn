@@ -1,22 +1,22 @@
-site: Colorie
+site: 读与未读
 url: https://readunread.cn
-author: Colorie
+author: Al
 author:
-  name: Colorie
+  name: Al
   email: 
   url: 
   avatar: 
-title: Colorie
-description: Colorie - Single column blog and portfolio Jekyll theme 
+title: 读与未读
+description: 读点儿…… 
 logo: 
 image: 
-twitter: ronaldsvilcins  
+twitter: zuo_life  
 twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
+  username: zuo_life
+  creator: zuo_life
   card: summary
 social:
-  name: Ronalds Vilcins
+  name: Al
   links:
     - https://twitter.com/#
     - https://www.dribbble.com/#
